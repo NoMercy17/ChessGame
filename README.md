@@ -1,2 +1,2 @@
 # ChessGame
-Chess game in C
+Built in C
