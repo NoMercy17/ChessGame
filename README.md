@@ -1,2 +1,2 @@
-# ChessGame
-Built in C
+# Files/Folders manipulations
+Trying to resemble the Github algorithm 
